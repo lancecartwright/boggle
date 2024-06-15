@@ -1,0 +1,50 @@
+alabama 4903185
+alaska 731158
+arizona 7278717
+arkansas 3017804
+california 39512223
+colorado 5758736
+connecticut 3565287
+delaware 973764
+florida 21477737
+georgia 10617423
+hawaii 1415872
+idaho 1787065
+illinois 12671821
+indiana 6732219
+iowa 3155070
+kansas 2913314
+kentucky 4467673
+louisiana 4648794
+maine 1344212
+maryland 6045680
+massachusetts 6892503
+michigan 9986857
+minnesota 5639632
+mississippi 2976149
+missouri 6137428
+montana 1068778
+nebraska 1934408
+nevada 3080156
+new hampshire 1359711
+new jersey 8882190
+new mexico 2096829
+new york 19453561
+north carolina 10488084
+north dakota 762062
+ohio 11689100
+oklahoma 3956971
+oregon 4217737
+pennsylvania 12801989
+rhode island 1059361
+south carolina 5148714
+south dakota 884659
+tennessee 6829174
+texas 28995881
+utah 3205958
+vermont 623989
+virginia 8535519
+washington 7614893
+west virginia 1792147
+wisconsin 5822434
+wyoming 578759
